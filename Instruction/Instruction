@@ -1,0 +1,20 @@
+1. Install Visual Studio Code (VS Code): Download and install VS Code from the [official website] (https://code.visualstudio.com/).
+
+2. Create a new project folder:
+    Create a new directory for your project on your computer.
+
+3.  Set Up Your Project Structure:
+      Inside the project directory, create the following files:
+           index.html
+           handsfree.js
+           Image folder (Containing the Images)
+
+4.  Create and Configure index.html
+
+5.  Train the application using handsfree.js.
+
+6. Once the data is trained ,take the code and configure the handsfree.js file.
+
+7. When the configuration is completed, Click on "go live" and give the camera permission to the browser.
+
+/* For Better undertanding click on the tag*/
