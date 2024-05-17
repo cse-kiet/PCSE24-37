@@ -1,0 +1,14 @@
+1. Non-Functional Requirements
+      •  Hardware Requirements
+          - Intel i5 or above / AMD Ryzen
+          - 1GB of HDD/SSD
+          - 4GB of RAM
+          - Recommend - AMD/NVIDIA GPU for better performance
+          - Built-in webcam or external 4MP webcam
+
+      •  Software Requirements
+          -  Windows 10/ Ubuntu 15.0 LTS or later/ MacOS 12.0 or later
+          - VS studio Code
+          - Handsfree.js
+          - Browser(Chrome/Edge/Morzilla)
+
